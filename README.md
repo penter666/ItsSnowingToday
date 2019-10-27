@@ -4,7 +4,7 @@
 ### Wrote in HTML/Javascript.
 
 Contains so far:
-Character, monster collision detection with the map and player-monster collision.
+⋅⋅1.Character, monster collision detection with the map and player-monster collision.<br/>
 Coin pick-up system
 Key for door system
 Simple graphics, animation and sprite state control
